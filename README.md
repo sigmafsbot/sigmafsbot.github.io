@@ -1,1 +1,1 @@
-# CourseraHTML
+# Playground for test purposes
